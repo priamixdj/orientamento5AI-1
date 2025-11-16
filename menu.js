@@ -17,7 +17,7 @@ div.innerHTML = `
                 <div>
                     <a class="nav-link text-white fw-bold" href="index.html">Home</a>
                     <a class="nav-link text-white fw-bold" href="tabella.html">Tabelle Orarie</a>
-                    <a class="nav-link text-white fw-bold" href="#">Materie e progetti</a>
+                    <a class="nav-link text-white fw-bold" href="indexMaterie.html">Materie</a>
                     <a class="nav-link text-white fw-bold" href="esperienze.html">Progetti</a>
                     <a class="nav-link text-white fw-bold" href="#">Lavoro</a>
                     <a class="nav-link text-white fw-bold" href="#">Perche' scegliere questa scuola</a>
