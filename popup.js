@@ -3,15 +3,15 @@ const examples = {
     // Informatica
     'Informatica3Anno': {
         title: 'Esempio Informatica 3° Anno',
-        images: ['assets/esempio3cpp.jpg']
+        images: ['assets/esempio1cpp.png']
     },
     'Informatica4Anno': {
         title: 'Esempio Informatica 4° Anno',
-        images: ['assets/esempio3Java.png']
+        images: ['assets/esempio4Java.png']
     },
     'Informatica5Anno': {
         title: 'Esempio Informatica 5° Anno',
-        images: ['assets/db.webp']
+        images: ['assets/esempio3db.png']
     },
 
     // Sistemi e Reti

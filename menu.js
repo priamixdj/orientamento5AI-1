@@ -10,7 +10,7 @@ div.innerHTML = `
         </div>
         <div class="col-4 text-center">
             <h4>ORIENTAMENTO IN ENTRATA - SCUOLA APERTA</h4>
-            <h1>ISTITUTO TECNICO</h1>
+            <h1>ISTITUTO TECNICO TECNOLOGICO INFORMATICA E TELECOMUNICAZIONI</h1>
         </div>
         <div class="col-4 d-flex justify-content-end position-relative">
             <nav id="nav-circle" class="d-flex gap-3 center">
